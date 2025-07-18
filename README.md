@@ -68,7 +68,7 @@ my-app/
 
 ### 1. **Clone o repositório**
 ```bash
-git clone <seu-repositorio>
+git clone <api-dashboard-frontend>
 cd user-dashboard-frontend/my-app
 ```
 
